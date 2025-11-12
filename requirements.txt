@@ -1,0 +1,4 @@
+Flask>=3.0
+pandas>=2.2
+langdetect>=1.0.9
+gunicorn>=22.0
